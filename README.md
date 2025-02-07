@@ -7,3 +7,5 @@ docker run -p 8002:8002 manifoldailearning/docker_demo
 =======
 test
 >>>>>>> origin/main
+>>>>>>>
+test
